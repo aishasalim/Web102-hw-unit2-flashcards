@@ -29,7 +29,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 
  <img
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h1OTNjb3VoejJvOWJ3M3phb3A5MDF0ZGNxYWRhM2owOTl1cGlkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWQAiDdPAkuQBFA6bZ/giphy.gif"/>
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h1OTNjb3VoejJvOWJ3M3phb3A5MDF0ZGNxYWRhM2owOTl1cGlkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWQAiDdPAkuQBFA6bZ/giphy.gif" width="100%" height="100%"/>
 
 ## License
 
