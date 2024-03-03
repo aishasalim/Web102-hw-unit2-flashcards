@@ -28,7 +28,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/E5UnwQy" data-context="false" ><a href="//imgur.com/a/E5UnwQy"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img
+  src="https://github.com/aishasalim/Web102-hw-unit2-flashcards/assets/87562264/09e2e2ca-90ad-4522-b17a-ff7b52e85d1b"
+  alt="Video Walkthough"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 ## License
 
