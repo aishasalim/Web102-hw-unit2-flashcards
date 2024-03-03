@@ -28,11 +28,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img
-  src="https://github.com/aishasalim/Web102-hw-unit2-flashcards/assets/87562264/09e2e2ca-90ad-4522-b17a-ff7b52e85d1b"
-  alt="Video Walkthough"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+<iframe src="https://giphy.com/embed/aWQAiDdPAkuQBFA6bZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aWQAiDdPAkuQBFA6bZ">via GIPHY</a></p>
 
 ## License
 
