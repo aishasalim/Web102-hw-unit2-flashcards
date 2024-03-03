@@ -28,7 +28,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<iframe src="https://giphy.com/embed/aWQAiDdPAkuQBFA6bZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/aWQAiDdPAkuQBFA6bZ">via GIPHY</a></p>
+ <img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h1OTNjb3VoejJvOWJ3M3phb3A5MDF0ZGNxYWRhM2owOTl1cGlkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWQAiDdPAkuQBFA6bZ/giphy.gif"/>
 
 ## License
 
